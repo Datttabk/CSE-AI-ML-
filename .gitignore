@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Generated Results
+VTU_Results_All.csv
+failed_usns.csv
+
+# Build
+dist/
+build/
+

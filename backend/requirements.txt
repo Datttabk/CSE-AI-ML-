@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+numpy
+playwright
+python-multipart
+pyjwt
+cryptography
+pydantic-settings
+pydantic
+openpyxl
+greenlet
